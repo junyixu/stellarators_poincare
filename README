@@ -1,4 +1,0 @@
-julia 的微分方程和其他语言的对比: 
-https://github.com/SciML/DifferentialEquations.jl#comparison-with-matlab-r-julia-python-c-mathematica-maple-and-fortran
-
-要比 matlab 的快几个数量级
